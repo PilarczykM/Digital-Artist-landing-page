@@ -1,6 +1,6 @@
 # Digital artist
 
-![Design preview for landing page](.images/snapshot.png)
+![Design preview for landing page](./images/snapshot.png)
 
 [Demo](https://digital-artist-landing-page.vercel.app/)
 
